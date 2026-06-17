@@ -1,6 +1,15 @@
 """
 FlightOptima API - REST API for Route Planner & Runway Scheduler
 
+PROJECT SUMMARY:
+Developed comprehensive flight optimization system leveraging Dijkstra's algorithm, 
+graph coloring, and constraint satisfaction techniques for multi-day route planning, 
+runway scheduling, and pilot assignment. Engineered end-to-end architecture with Python 
+backend, Flask REST API, and React visualization enabling real-time support for aviation 
+logistics operations. Tools and Technologies: Python, Flask, React.js, Dijkstra's 
+Algorithm, Graph Coloring, Constraint Scheduling, REST API, JSON Processing.
+
+TECHNICAL DETAILS:
 This module provides a Flask-based REST API that exposes the core
 functionality of FlightOptima for web applications.
 """

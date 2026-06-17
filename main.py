@@ -2,6 +2,15 @@
 """
 FlightOptima: Route Planner & Runway Scheduler
 
+RESUME SUMMARY:
+Developed comprehensive flight optimization system leveraging Dijkstra's algorithm, 
+graph coloring, and constraint satisfaction techniques for multi-day route planning, 
+runway scheduling, and pilot assignment. Engineered end-to-end architecture with Python 
+backend, Flask REST API, and React visualization enabling real-time support for aviation 
+logistics operations. Tools and Technologies: Python, Flask, React.js, Dijkstra's 
+Algorithm, Graph Coloring, Constraint Scheduling, REST API, JSON Processing.
+
+DETAILED DESCRIPTION:
 A backend simulation tool that calculates the most efficient flight path 
 between airports and optimizes runway usage using graph coloring algorithms.
 
